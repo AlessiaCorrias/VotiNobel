@@ -58,7 +58,7 @@ public class Model {
 		//provo a non aggiungerlo
 		cerca(parziale, L+1, m);
 		
-	}
+	}  
 	public double calcolaMedia(Set<Esame> parziale) {
 		int crediti =0;
 		int somma =0;
